@@ -51,7 +51,7 @@
 #define IS_SET_PIN(PORT,PIN) (((PORT>>PIN)&0x01)==1 ? 1 :0)
 
 // ejemplo si quiere usar una macro para cada botón
-#define Boton1 ((PINDC>>PC0)&0x01)
+#define Boton1 ((PINC>>PC0)&0x01)
 
 /*********************************************************************************************************
  *** TIPOS DE DATOS PRIVADOS AL MODULO
