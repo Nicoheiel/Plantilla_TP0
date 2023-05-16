@@ -8,34 +8,34 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/nico/Documentos/EEST1/AED_5/git/plantillas_TP/Plantilla_TP0/include",
-                "/home/nico/Documentos/EEST1/AED_5/git/plantillas_TP/Plantilla_TP0/src",
-                "/home/nico/.platformio/packages/framework-arduino-avr/cores/arduino",
-                "/home/nico/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
-                "/home/nico/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                "/home/nico/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                "/home/nico/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                "/home/nico/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "/home/nico/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "c:/Users/Alumnos/Desktop/Plantilla_TP0/include",
+                "c:/Users/Alumnos/Desktop/Plantilla_TP0/src",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/nico/Documentos/EEST1/AED_5/git/plantillas_TP/Plantilla_TP0/include",
-                    "/home/nico/Documentos/EEST1/AED_5/git/plantillas_TP/Plantilla_TP0/src",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/cores/arduino",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/libraries/HID/src",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "/home/nico/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "c:/Users/Alumnos/Desktop/Plantilla_TP0/include",
+                    "c:/Users/Alumnos/Desktop/Plantilla_TP0/src",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Alumnos/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=50205",
+                "PLATFORMIO=60107",
                 "ARDUINO_AVR_NANO",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
@@ -45,7 +45,7 @@
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
-            "compilerPath": "/home/nico/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerPath": "C:/Users/Alumnos/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
             "compilerArgs": [
                 "-mmcu=atmega328p",
                 ""
